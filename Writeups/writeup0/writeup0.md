@@ -15,8 +15,8 @@ $ git log --graph --decorate --abbrev-commit --all --pretty=oneline
 Part B
 
 
-![Introduction Sequence — 4/4 complete](../screenshot1.png)
-![Push & Pull — Git Remotes! — 8/8 complete:](../screenshot2.png)
+![Introduction Sequence — 4/4 complete](screenshot1.png)
+![Push & Pull — Git Remotes! — 8/8 complete:](screenshot2.png)
 
 
 
