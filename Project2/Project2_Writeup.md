@@ -1,6 +1,5 @@
 # Project 2 Proposal: Intron Presence and Gene Expression in Arabidopsis thaliana
 
-
 ---
 
 ## 1. Project Overview
@@ -168,29 +167,6 @@ Introns are non-coding sequences removed during mRNA processing, yet approximate
 - gffutils - GFF3 parsing
 - HTSeq - genomic feature counting
 
----
-## 4. Pipeline
-
-### Analysis Workflow
-
-```
-Raw Data (FASTQ + GFF3)
-    ↓
-[1] Genome Annotation Processing
-    ↓
-Intron catalog (gene_id, intron_count, intron_lengths)
-    ↓
-[2] RNA-seq Alignment & Quantification
-    ↓
-Expression matrix (gene_id, TPM values)
-    ↓
-[3] Data Integration & Filtering
-    ↓
-Merged dataset (gene_id, intron_features, expression)
-    ↓
-[4] Statistical Analysis
-    ↓
-Results (plots, statistics, model predictions)
 
 ## 5. Machine Learning
 ```
