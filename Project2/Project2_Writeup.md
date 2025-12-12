@@ -168,8 +168,7 @@ Introns are non-coding sequences removed during mRNA processing, yet approximate
 - HTSeq - genomic feature counting
 
 
-## 5. Machine Learning
-```
+## 4. Machine Learning
 ---
 
 ### Task Definition
